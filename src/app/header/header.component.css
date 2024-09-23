@@ -1,0 +1,9 @@
+
+a {
+  cursor: pointer;
+}
+
+.nav-item.active {
+  border-bottom: 4px solid #ae5cff;
+  border-radius: 12px;
+}
